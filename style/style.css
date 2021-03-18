@@ -1,0 +1,45 @@
+.millitary{
+    width: 850px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.millitary .hebs{
+    position: relative;
+}
+.millitary .hebs img{
+    width: 600px;
+}
+.millitary .hebs h1{
+    position: absolute;
+    bottom: 5px;
+    font-size: 25px;
+    line-height: 30px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px 12px;
+}
+.millitary .war{
+    position: relative;
+    bottom: 92px;
+    left: 380px;
+    display: inline-block;
+    font-size: 30px;
+    line-height: 34px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 18px 5px
+}
+.millitary .reqem li{
+    position: relative;
+    bottom: 460px;
+    left: 530px;
+    color: red;
+    font-size: 25px;
+}
+.millitary .text{
+    position: relative;
+    bottom: 310px;
+}
+.millitary .text p{
+    font-size: 23px;
+    line-height: 30px;
+}
